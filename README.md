@@ -1,2 +1,2 @@
-# servelt-JSP
+# servlet-JSP
 Servelt and JSP practice
